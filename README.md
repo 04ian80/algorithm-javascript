@@ -1,24 +1,17 @@
-# 프로그래머스의 코딩테스트 연습문제를 풀이한 레포지토리입니다.
+# 코딩테스트 연습문제 풀이
+
+이 레파지토리는 프로그래머스의 코딩테스트 연습문제를 풀이한 내용을 적는 공간입니다.
 
 ## 작성자
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" width="100px">
-        <img width="100px" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/97023321?s=400&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
-        <br />
-        <a href="https://github.com/04ian80"><strong>종아인</strong></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://github.com/04ian80"><strong>종아인\(04ian80\)</strong></a>
 
 ## 📏 규칙
 
 - 하루에 최소 하나씩 풀이를 합니다.
 - 먼저 스스로 풀어본 다음, 모든 테스트 케이스를 통과하면 나의 풀이 방법을 기록합니다.
 - 다른사람의 Best solution을 보고 해석한 뒤 기록합니다.
+- 최대한 가독성이 좋게 짜도록 노력합니다.
 
 ## markdown 형식
 
