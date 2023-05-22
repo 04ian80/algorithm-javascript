@@ -74,3 +74,4 @@
 2. [x만큼 간격이 있는 n개의 숫자](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/02.%20%08x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.md)
 3. [문자열을 정수로 바꾸기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/03.%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
 4. [두 정수 사이의 합](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/04.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md)
+5. [콜라츠 추측](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/05.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
