@@ -75,3 +75,4 @@
 3. [문자열을 정수로 바꾸기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/03.%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
 4. [두 정수 사이의 합](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/04.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md)
 5. [콜라츠 추측](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/05.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
+6. [서울에서 김서방 찾기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/06.%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.md)
