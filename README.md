@@ -71,18 +71,19 @@
 <details>
 <summary><strong style="font-size:20px;background-color:#00F90015">Level 1</strong></summary>
 
-1. [나머지가 1이 되는 수 찾기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/01.%20%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
-2. [x만큼 간격이 있는 n개의 숫자](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/02.%20%08x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.md)
-3. [문자열을 정수로 바꾸기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/03.%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
-4. [두 정수 사이의 합](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/04.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md)
-5. [콜라츠 추측](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/05.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
-6. [서울에서 김서방 찾기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/06.%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.md)
-7. [나누어 떨어지는 숫자 배열](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/07.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.md)
-8. [핸드폰 번호 가리기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/08.%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
-9. [제일 작은 수 제거하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/09.%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
+1.  [나머지가 1이 되는 수 찾기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/01.%20%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
+2.  [x만큼 간격이 있는 n개의 숫자](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/02.%20%08x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.md)
+3.  [문자열을 정수로 바꾸기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/03.%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)
+4.  [두 정수 사이의 합](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/04.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md)
+5.  [콜라츠 추측](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/05.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
+6.  [서울에서 김서방 찾기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/06.%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.md)
+7.  [나누어 떨어지는 숫자 배열](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/07.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.md)
+8.  [핸드폰 번호 가리기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/08.%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
+9.  [제일 작은 수 제거하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/09.%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
 10. [가운데 글자 가져오기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/10.%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 11. [내적](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/11.%20%EB%82%B4%EC%A0%81.md)
 12. [약수의 개수와 덧셈](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/12.%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.md)
+13. [문자열 내림차순으로 배치하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/13.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.md)
     </details>
 
 <details>
