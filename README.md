@@ -87,6 +87,7 @@
 14. [부족한 금액 계산하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/14.%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md)
 15. [문자열 다루기 기본](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/15.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.md)
 16. [행렬의 덧셈](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/16.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)
+17. [직사각형 별찍기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/17.%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
     </details>
 
 <details>
