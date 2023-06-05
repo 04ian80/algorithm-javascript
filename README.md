@@ -89,6 +89,7 @@
 16. [행렬의 덧셈](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/16.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)
 17. [직사각형 별찍기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/17.%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 18. [이상한 문자 만들기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/18.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+19. [같은 숫자는 싫어](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/19.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
     </details>
 
 <details>
