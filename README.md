@@ -91,6 +91,7 @@
 18. [이상한 문자 만들기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/18.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 19. [같은 숫자는 싫어](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/19.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
 20. [삼총사](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/20.%20%EC%82%BC%EC%B4%9D%EC%82%AC.md)
+21. [최소직사각형](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/21.%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
     </details>
 
 <details>
