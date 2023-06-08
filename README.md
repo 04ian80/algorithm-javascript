@@ -92,6 +92,7 @@
 19. [같은 숫자는 싫어](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/19.%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)
 20. [삼총사](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/20.%20%EC%82%BC%EC%B4%9D%EC%82%AC.md)
 21. [최소직사각형](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/21.%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
+22. [크기가 작은 부분 문자열](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/22.%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
     </details>
 
 <details>
