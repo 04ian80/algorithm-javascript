@@ -96,6 +96,7 @@
 22. [크기가 작은 부분 문자열](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/22.%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
 23. [문자열 내 마음대로 정렬하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/23.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md)
 24. [k번째수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/24.%20k%EB%B2%88%EC%A7%B8%EC%88%98.md)
+25. [두개 뽑아서 더하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/25.%20%EB%91%90%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
     </details>
 
 <details>
