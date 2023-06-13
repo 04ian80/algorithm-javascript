@@ -98,6 +98,7 @@
 24. [k번째수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/24.%20k%EB%B2%88%EC%A7%B8%EC%88%98.md)
 25. [두개 뽑아서 더하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/25.%20%EB%91%90%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
 26. [푸드 파이트 대회](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/26.%20%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.md)
+27. [가장 가까운 같은 글자](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/27.%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.md)
     </details>
 
 <details>
