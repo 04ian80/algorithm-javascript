@@ -100,6 +100,7 @@
 26. [푸드 파이트 대회](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/26.%20%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.md)
 27. [가장 가까운 같은 글자](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/27.%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.md)
 28. [체육복 (greedy)](<https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/28.%20%EC%B2%B4%EC%9C%A1%EB%B3%B5(greedy).md>)
+29. [추억 점수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/29.%20%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md)
     </details>
 
 <details>
