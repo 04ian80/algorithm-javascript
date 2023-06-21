@@ -103,6 +103,7 @@
 29. [추억 점수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/29.%20%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md)
 30. [달리기 경주](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/30.%20%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC.md)
 31. [완주하지 못한 선수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/31.%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.md)
+32. [시저 암호](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/32.%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.md)
     </details>
 
 <details>
