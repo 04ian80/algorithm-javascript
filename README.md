@@ -106,6 +106,7 @@
 32. [시저 암호](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/32.%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.md)
 33. [3진법 뒤집기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/33.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)
 34. [명예의 전당(1)](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/34.%20%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9.md)
+35. [예산](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/35.%20%EC%98%88%EC%82%B0.md)
     </details>
 
 <details>
