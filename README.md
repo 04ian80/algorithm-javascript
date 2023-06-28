@@ -118,4 +118,5 @@
 3. [큰 수 만들기](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/03.%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0(greedy).md>)
 4. [구명보트](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/04.%20%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8(greedy).md>)
 5. [의상](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/05.%20%EC%9D%98%EC%83%81(hash).md>)
+6. [기능개발](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/06.%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C(stack%2Cqueue).md>)
 </details>
