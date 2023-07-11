@@ -122,4 +122,5 @@
 7. [올바른 괄호](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/07.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8(stack%2Cqueue).md>)
 8. [다리를 지나는 트럭](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/08.%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD(stack%2Cqueue).md>)
 9. [가장 큰 수](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/09.%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98(sort).md>)
+10. [H-index](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/10.%20H-index(sort).md>)
 </details>
