@@ -123,4 +123,5 @@
 8. [다리를 지나는 트럭](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/08.%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD(stack%2Cqueue).md>)
 9. [가장 큰 수](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/09.%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98(sort).md>)
 10. [H-index](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/10.%20H-index(sort).md>)
+11. [베스트앨범](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/11.%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94(hash).md>)
 </details>
