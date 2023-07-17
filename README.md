@@ -126,3 +126,9 @@
 10. [H-index](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/10.%20H-index(sort).md>)
 11. [베스트앨범](<https://github.com/04ian80/algorithm-javascript/blob/main/Level2/11.%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94(hash).md>)
 </details>
+
+<details>
+<summary><strong style="font-size:20px;background-color:#D4FB7930">Level 3</strong></summary>
+
+1. [섬 연결하기](<https://github.com/04ian80/algorithm-javascript/blob/main/Level3/01.%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0(greedy).md>)
+</details>
