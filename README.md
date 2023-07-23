@@ -112,6 +112,7 @@
 38. [콜라 문제](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/38.%20%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md)
 39. [2016년](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/39.%202016%EB%85%84.md)
 40. [숫자 짝꿍](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/40.%20%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.md)
+41. [크레인 인형뽑기 게임](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/41.%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.md)
     </details>
 
 <details>
