@@ -111,7 +111,7 @@
 37. [모의고사](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/37.%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
 38. [콜라 문제](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/38.%20%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md)
 39. [2016년](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/39.%202016%EB%85%84.md)
-    </details>
+40. [숫자 짝꿍](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/40.%20%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.md)
     </details>
 
 <details>
