@@ -113,6 +113,7 @@
 39. [2016년](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/39.%202016%EB%85%84.md)
 40. [숫자 짝꿍](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/40.%20%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.md)
 41. [크레인 인형뽑기 게임 (2019 카카오 개발자 겨울 인턴십)](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/41.%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.md)
+42. [키패드 누르기 (2020 카카오 인턴십)](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/42.%20%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.md)
     </details>
 
 <details>
