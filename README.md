@@ -116,6 +116,7 @@
 42. [키패드 누르기 (2020 카카오 인턴십)](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/42.%20%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.md)
 43. [카드 뭉치](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/43.%20%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.md)
 44. [최대공약수와 최소공배수](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/44.%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+45. [덧칠하기](https://github.com/04ian80/algorithm-javascript/blob/main/Level%201/45.%20%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.md)
     </details>
 
 <details>
