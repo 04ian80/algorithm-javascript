@@ -69,6 +69,8 @@
 
 ## ✅ 목록
 
+### 프로그래머스
+
 <details>
 <summary><strong style="font-size:20px;background-color:#00F90015">Level 1</strong></summary>
 
@@ -139,4 +141,13 @@
 <summary><strong style="font-size:20px;background-color:#D4FB7930">Level 3</strong></summary>
 
 1. [섬 연결하기](<https://github.com/04ian80/algorithm-javascript/blob/main/Level3/01.%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0(greedy).md>)
+</details>
+
+### LeetCode
+
+<details>
+<summary><strong>Easy</strong></summary>
+
+1. [Merge Strings Alternately](https://github.com/04ian80/algorithm-javascript/blob/main/LeetCode/MergeStringsAlternately.md)
+
 </details>

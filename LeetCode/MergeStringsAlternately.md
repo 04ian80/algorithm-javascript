@@ -13,6 +13,8 @@ Return _the merged string._
 5. If we don't have the nth alphabet in the word1 or word2, we have to concat nothing.
 6. We get to return the result when we concat all the alphbet of two given strings.
 
+## Submission
+
 ```tsx
 function mergeAlternately(word1: string, word2: string): string {
   let result = "";
